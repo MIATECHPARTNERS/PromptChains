@@ -10,7 +10,7 @@ For example: `"prompt1~prompt2~prompt3"`
 
 ## Usage
 
-To use a prompt chain, simply copy the entire chain and paste it into the ChatGPT Queue extension. The AI will process each prompt in sequence, building context before tackling the final task.
+**To use a prompt chain, simply copy the entire chain and paste it into the ChatGPT Queue extension**. The AI will process each prompt in sequence, building context before tackling the final task.
 
 ## Example Prompt Chains
 
