@@ -1,4 +1,4 @@
-# ChatGPT Queue Prompts
+# ChatGPT Queue Prompts - used for bulk prompting in [ChatGPT Queue](https://chromewebstore.google.com/detail/chatgpt-queue/iabnajjakkfbclflgaghociafnjclbem?hl=en&authuser=0)
 
 ChatGPT Queue Prompts is a collection of prompt chains designed to enhance interactions with large language models (LLMs) like ChatGPT with the use of ChatGPT Queue. These prompt chains help build context for the AI before performing specific tasks. [Which improves performance](https://arxiv.org/pdf/2110.08387)
 
@@ -28,6 +28,14 @@ This prompt chain guides the creation of a comprehensive market analysis report 
 
 ```
 Let's build a comprehensive Market Analysis Report for the AI SaaS market. The report should contain, Market Overview Market Dynamics Market Segmentation Competitive Landscape Consumer Analysis Market Size and Forecast SWOT Analysis Regulatory Environment Technological Advancements Strategic Recommendations Start by outputting the table of contents for our document. When I say "next". Start on the first section, and so on and so forth. Using your search capabilities to get real time information.~next~next~next
+```
+
+### Example 3: Writing a Fantasy Book
+
+This prompt chain assists in creating a structured outline and chapters for a fantasy book:
+
+```
+Write the table of contents for a 10 chapter fantasy book~chapter1~chapter2~chapter3~chapter4~chapter5~chapter6~chapter7~chapter8~chapter9~chapter10
 ```
 
 ## Contributing
