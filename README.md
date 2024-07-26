@@ -14,7 +14,7 @@ For example: `"prompt1~prompt2~prompt3"`
 
 ## Example Prompt Chains
 
-### Example 0: AI Company Research
+### Example: AI Company Research
 
 This prompt chain helps research publicly traded companies benefiting from the rise of AI:
 
