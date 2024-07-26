@@ -4,8 +4,9 @@ ChatGPT Queue Prompts is a collection of prompt chains designed to enhance inter
 
 ## What are Prompt Chains?
 
-Prompt chains are sequences of prompts for LLMs that help build context for the AI before having it perform a task. In this project, prompt chains are represented as strings with individual prompts separated by tildes (`~`). They should be copy and pastable into ChatGPT Queue bulk prompting
+Prompt chains are sequences of prompts for LLMs that help build context for the AI before having it perform a task. In this project, prompt chains are represented as strings with individual prompts separated by tildes (`~`). They should be copy and pastable into ChatGPT Queue bulk prompting and Job or Task focused.
 
+Heading: "Create/Build/Develop XYZ" 
 For example: `"prompt1~prompt2~prompt3"`
 
 ## Usage
