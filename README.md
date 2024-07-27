@@ -16,7 +16,7 @@ Prompt Chain: `"prompt1~prompt2~prompt3"`
 
 ## Example Prompt Chains
 
-### Example: AI Company Research
+### Example: Conduct AI Company Research
 
 This prompt chain helps research publicly traded companies benefiting from the rise of AI:
 
