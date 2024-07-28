@@ -36,13 +36,13 @@ Recent research from the University of Washington has shown that providing AI mo
 
 ### Video Tutorials
 
-- Manual Queueing: [Watch on YouTube]()
-- Bulk Prompting: [Watch on YouTube]()
+- Manual Queueing: [Watch on YouTube](https://www.youtube.com/watch?v=wWwPV0B4sHs)
+- Bulk Prompting: [Watch on YouTube](https://www.youtube.com/watch?v=wJo-19o6ogQ)
 
 ### Prompt Chain Examples
 
 Find example Prompt Chains on the GitHub repository:
-[MIATECHPARTNERS/PromptChains]()
+[PromptChains]()
 
 ## Additional Information
 
