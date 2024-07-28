@@ -8,15 +8,10 @@ ChatGPT Queue is a powerful tool that enhances your interaction with ChatGPT by 
 
 1. **Manual Queueing**
 
-   - Queue messages while ChatGPT is responding
-   - Continue typing and press "Enter" to add prompts to the queue
-   - Queue UI appears when you start queueing messages
-   - Pro version allows building unlimited queues
+   - Quickly queue up the next message in the middle of a chat.
 
 2. **Bulk Prompting**
-   - Copy/paste Prompt Chains (series of prompts separated by ~)
-   - Automatically builds a queue with the provided prompts
-   - Saves time by automating workflow setup
+   - Pass in a whole workflow with a Prompt Chain.
 
 ## How to Use
 
