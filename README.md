@@ -9,6 +9,7 @@ Prompt chains are sequences of prompts for LLMs that help build context for the 
 For example,
 Heading: `"Create/Build/Develop XYZ"` 
 Prompt Chain: `"prompt1~prompt2~prompt3"`
+Author: Joel @ ChatGPT Queue
 
 ## Usage
 
