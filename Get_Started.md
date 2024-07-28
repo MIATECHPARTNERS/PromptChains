@@ -4,6 +4,8 @@
 
 ChatGPT Queue is a powerful tool that enhances your interaction with ChatGPT by allowing you to queue messages and use bulk prompting. This guide will help you understand the main features and how to use them effectively.
 
+Recent research from the University of Washington has shown that providing AI models with additional context from their own dataset leads to improved performance on various reasoning tasks. This concept, known as "generated knowledge prompting," is detailed in their paper [available here](https://arxiv.org/pdf/2110.08387). ChatGPT Queue leverages this insight by enabling you to efficiently queue multiple prompts, allowing for more comprehensive and context-rich interactions with the AI.
+
 ## Main Features
 
 1. **Manual Queueing**
