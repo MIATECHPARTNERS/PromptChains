@@ -25,6 +25,49 @@ This prompt chain helps research publicly traded companies benefiting from the r
 Using your web search capabilities, I want you to search the web for the latest information on publicly traded companies that are currently benefiting from the rise of AI. Include URL columns where I can learn more about each company, their competitive advantages, and any analyst ratings. Return this back in a table inline. We will research in batches of 10, when I say "More" you find 10 more. Keep the information brief and all within the inline table. Example: | Company Name | Stock Symbol | Competitive Advantages | Analyst Ratings | URL | |--------------|--------------|------------------------------------------|------------------|----------------------------------------| | Company A | ABC | Leading AI technology, strong R&D | Strong Buy | Link | | Company B | XYZ | Dominant in AI software, extensive patents| Moderate Buy | Link | Please provide the latest information available. ~More ~ More ~ More
 ```
 
+### Build Marketing plan using Diffusion of innovations Theory
+
+```
+Based on the Diffusion of innovations theory, I want you to help me build a marketing plan for each step for marketing my product, My product [Its called ChatGPT Queue it saves people time by allowing them to queue messages for ChatGPT, I have a one time fee, its a chrome extension]. Start by generating the Table of contents for my marketing plan with only the following sections
+
+Here are what the only 5 sections of the outline should look like,
+Innovators
+Early Adopters
+Early Majority
+Late Majority
+Laggards
+
+
+Use your search capabilities to enrich each section of the marketing plan.
+
+~
+
+Write Section 1
+
+~
+
+Write Section 2
+
+~
+
+
+Write Section 3
+
+~
+
+
+Write Section 4
+
+~
+
+Write Section 5
+
+
+```
+
+
+
+
 ### Create a Custom Prompt
 
 ```
