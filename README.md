@@ -25,6 +25,53 @@ This prompt chain helps research publicly traded companies benefiting from the r
 Using your web search capabilities, I want you to search the web for the latest information on publicly traded companies that are currently benefiting from the rise of AI. Include URL columns where I can learn more about each company, their competitive advantages, and any analyst ratings. Return this back in a table inline. We will research in batches of 10, when I say "More" you find 10 more. Keep the information brief and all within the inline table. Example: | Company Name | Stock Symbol | Competitive Advantages | Analyst Ratings | URL | |--------------|--------------|------------------------------------------|------------------|----------------------------------------| | Company A | ABC | Leading AI technology, strong R&D | Strong Buy | Link | | Company B | XYZ | Dominant in AI software, extensive patents| Moderate Buy | Link | Please provide the latest information available. ~More ~ More ~ More
 ```
 
+
+
+### Leads enrichment
+
+```
+Lead Enrichment Task
+Welcome to the lead enrichment task! Your goal is to enrich a list of email addresses by gathering detailed and relevant information for each one. This process is essential for building a comprehensive understanding of each lead, which can significantly enhance engagement and targeting strategies. Here’s a step-by-step guide on how to proceed:
+
+Step-by-Step Instructions:
+List of Emails:
+
+I will provide you with a comprehensive list of email addresses. This list is your starting point and contains the leads that require enrichment.
+Sequential Processing:
+
+Begin with the first email address on the list. When I say "next," you will move on to the subsequent email address. This method ensures a structured and organized approach, allowing for systematic data collection.
+Information Gathering:
+
+For each email address, your task is to search for and compile the following pieces of relevant information. This data will help paint a complete picture of each lead:
+Name: Identify the person or organization associated with the email. This can often be found through professional networks or company directories.
+Job Title or Position: Determine the current job title or role of the individual. LinkedIn is a valuable resource for this information.
+Social Media Profiles: Locate profiles on platforms like LinkedIn, Twitter, or Facebook. These profiles can provide insights into professional interests and activities.
+Company Information: Gather details about the company they are associated with, such as industry, size, and key personnel.
+Publicly Available Contact Information: This might include phone numbers, secondary email addresses, or office addresses. Ensure this data is publicly accessible to comply with privacy regulations.
+Recent News or Articles: Look for any recent news, articles, or press releases involving the person or their organization. This context can be valuable for understanding their current focus and achievements.
+Data Sources:
+Reputable Sources: Prioritize information from reputable and authoritative sources to ensure accuracy. LinkedIn, official company websites, Google, and professional networks are excellent starting points.
+Search Engines: Utilize search engines effectively by using specific and targeted queries that can help pinpoint the necessary information.
+Compliance:
+Legal and Privacy Regulations: Ensure that all information gathering complies with relevant legal and privacy regulations, such as GDPR and CCPA. Avoid using methods that could infringe on privacy rights or involve unauthorized data scraping.
+Handling Ambiguity:
+Multiple Matches: If multiple matches are found for an email address, use context clues such as company affiliation or job title to select the most relevant result.
+No Information Found: If no relevant information is found after a thorough search, log this as an unsuccessful search and proceed to the next email. Documenting this helps maintain a record of search attempts and outcomes.
+Output Format:
+Structured Presentation: Present the gathered information in a structured format such as a table or a JSON file. This format should include clearly labeled fields for each piece of data, making it easy to review and utilize.
+Error Handling:
+Unsuccessful Searches: Log any instances where the search was unsuccessful or incomplete. This log can help in reviewing the search process and identifying potential improvements.
+Rate Limiting and Ethical Considerations:
+Avoid Excessive Querying: Be mindful of the terms of service for data providers. Excessive querying can lead to restrictions or bans, so it’s essential to respect these limits.
+Ethical Guidelines: Adhere to ethical guidelines in data gathering, ensuring that all information collected is done so responsibly and respectfully.
+Let’s begin this enriching journey. Start by examining the first email address, and when you’re ready to move on, simply say "next." Your thorough and diligent approach will greatly enhance the value of these leads, providing a rich foundation for further engagement and strategic actions.
+
+[Email List]
+
+~next~next~next~next~next~next~next~next~next~next~next~next~next~next~
+
+
+
 ### Build Marketing plan using Diffusion of innovations Theory
 
 ```
