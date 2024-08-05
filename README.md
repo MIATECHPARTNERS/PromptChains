@@ -76,6 +76,7 @@ Let’s begin this enriching journey. Start by examining the first email address
 
 ### Build Marketing plan using Diffusion of innovations Theory
 
+```
 Based on the Diffusion of innovations theory, I want you to help me build a marketing plan for each step for marketing my product, My product [Its called ChatGPT Queue it saves people time by allowing them to queue messages for ChatGPT, I have a one time fee, its a chrome extension]. Start by generating the Table of contents for my marketing plan with only the following sections
 
 Here are what the only 5 sections of the outline should look like,
