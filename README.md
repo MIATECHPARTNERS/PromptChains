@@ -27,7 +27,7 @@ Using your web search capabilities, I want you to search the web for the latest 
 
 
 
-### Leads enrichment
+### Enrich these Leads for my CRM
 
 ```
 Lead Enrichment Task
