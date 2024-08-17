@@ -77,6 +77,15 @@ Let’s begin this enriching journey. Start by examining the first email address
 
 ```
 
+### Build a detailed workout and nutrition plan
+
+```
+Analyze the following information: Current body weight [weight in kg/lbs], Height [height in cm/inches], Age [age in years], Gender [male/female/other], and Fitness goal [e.g., weight loss, muscle gain, general fitness]~Calculate the individual's BMI and determine their ideal weight range based on height~Estimate the individual's daily caloric needs based on their stats and activity level~Create a macronutrient breakdown (protein, carbs, fats) tailored to their fitness goal~Develop a 7-day meal plan with specific meals and portion sizes that meet the calculated macronutrient needs~Generate a grocery list based on the meal plan, categorized by food groups~Design a 4-week workout plan with 4-5 sessions per week, tailored to the individual's fitness goal~For Week 1, provide detailed descriptions of each workout, including exercises, sets, reps, and rest periods~For Weeks 2-4, outline any progressions or changes in the workout routine to ensure continued progress~Suggest 3-5 supplement recommendations, if appropriate, based on the individual's goal~Create a list of 5-7 tips for staying motivated and adhering to the workout and nutrition plan~Develop a progress tracking system, including metrics to monitor and frequency of measurements~Generate a sample workout log template for the individual to record their exercises and progress~Provide guidelines for adjusting the plan based on progress or plateaus after the 4-week period
+```
+
+
+
+
 
 ### Build Marketing plan using Diffusion of innovations Theory
 
