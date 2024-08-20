@@ -77,6 +77,13 @@ Let’s begin this enriching journey. Start by examining the first email address
 
 ```
 
+
+### Building Personal Finance Documents
+
+```
+Create a monthly budget template with categories for income, fixed expenses, variable expenses, and savings. Include formulas for calculating totals and percentages~Develop a yearly financial goals worksheet with sections for short-term, medium-term, and long-term goals. Include columns for goal description, target amount, deadline, and action steps~Generate a net worth statement template with sections for assets (e.g., cash, investments, property) and liabilities (e.g., loans, credit card debt). Include formulas for calculating total net worth~Design a debt repayment plan spreadsheet with columns for creditor name, balance, interest rate, minimum payment, and projected payoff date. Include a debt snowball/avalanche calculation~Create an emergency fund planning document that calculates target fund size based on monthly expenses and provides a savings timeline~Develop an investment portfolio allocation spreadsheet with sections for different asset classes (e.g., stocks, bonds, real estate) and risk tolerance levels~Generate a retirement savings calculator that estimates required savings based on current age, desired retirement age, and expected expenses~Create a cash flow statement template with sections for operating activities, investing activities, and financing activities~Design a tax preparation checklist customized for individual tax situations, including needed documents and common deductions~Develop a personal financial ratios worksheet calculating key metrics like savings rate, debt-to-income ratio, and investment returns~Create an insurance coverage summary template listing all policies, coverage amounts, premiums, and renewal dates~Generate a bill payment tracker with recurring expenses, due dates, and payment confirmation fields~Design a charitable giving plan template with sections for donation goals, tax implications, and impact tracking~Create a financial document organization guide with categories for storing and managing important financial papers~Develop a personal finance dashboard template summarizing key financial metrics, goals progress, and action items
+```
+
 ### Build a detailed workout and nutrition plan
 
 ```
