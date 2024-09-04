@@ -39,7 +39,12 @@ If applicable, suggest tools or resources that can help with this step.~ Identif
 ```
 
 
+### Brainstorm product ideas and build Roadmap
 
+```
+INDUSTRY=[target industry], TREND=[current trend or technology], PROBLEM=[specific problem to solve]
+List 10 emerging trends or technologies in INDUSTRY that could potentially disrupt the market or create new opportunities.~ Identify 5 major pain points or unmet needs in INDUSTRY, focusing specifically on those related to PROBLEM.~ Generate 10 unconventional or "out-of-the-box" product ideas that combine aspects of TREND with solving PROBLEM in INDUSTRY. Don't worry about feasibility at this stage.~ For each of the 10 ideas, briefly describe its core functionality and primary benefit to the user in one sentence.~ Select the 3 most promising ideas from the list. For each, identify 3 potential target user groups and their specific use cases.~ For the top 3 ideas, brainstorm 5 unique features or capabilities that would set each product apart from existing solutions in INDUSTRY.~ Imagine potential obstacles or challenges for each of the top 3 ideas. List 3 major hurdles for each and suggest possible ways to overcome them.~ Combine elements from the top 3 ideas to create 2 hybrid product concepts that might offer more comprehensive solutions to PROBLEM.~ For each of the 2 hybrid concepts, describe a "day in the life" scenario showcasing how the product would be used and its impact on the user.~ Evaluate the 2 hybrid concepts and the original top 3 ideas based on innovation, market potential, and alignment with TREND. Rank them from most to least promising.~ For the highest-ranked idea, outline a basic product roadmap including 3 development phases and key milestones for bringing it to market.
+```
 
 
 
