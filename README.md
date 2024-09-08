@@ -63,6 +63,34 @@ List 10 emerging trends or technologies in INDUSTRY that could potentially disru
 Research and provide a list of 5 high-volume, low-competition keywords related to selling digital products. Include search volume and keyword difficulty for each~Based on the keyword research, generate a compelling blog post title that incorporates the primary keyword~Create an outline for the blog post with the following sections: Introduction, [3-5 main content sections based on secondary keywords], Conclusion~Write a meta description for the blog post, incorporating the primary keyword and staying within 150-160 characters~Write the Introduction section, including the primary keyword in the first paragraph and a clear thesis statement~Write Section 1 of the main content, incorporating relevant secondary keywords naturally~Write Section 2 of the main content, including relevant statistics or data to support your points~Write Section 3 of the main content, addressing common questions or concerns related to the topic~[If applicable] Write Sections 4 and 5 of the main content, providing additional value and incorporating remaining secondary keywords~Write the Conclusion section, summarizing key points and including a call-to-action~Create a list of 5-7 internal and external link suggestions to be incorporated throughout the post~Generate 3 options for engaging meta titles, each under 60 characters and including the primary keyword~Provide a list of image suggestions for the post, including recommended alt text for each image~Create a list of 3-5 related blog post ideas to be used for internal linking
 ```
 
+### Build SEO Optimized Blog Post in Markdown
+
+```
+TOPIC=[article topic], KEYWORD=[primary keyword], WORDCOUNT=[target word count, minimum 2000], AUDIENCE=[target reader persona]
+
+Use web search to identify the top 10 ranking pages for KEYWORD. Analyze their content structure, headings, and key points covered.~
+Based on the analysis, create a detailed outline with at least 15 headings and subheadings (H1, H2, H3, H4) that comprehensively cover TOPIC. Ensure the outline has a logical flow and addresses key user intents.~
+Research and list 10-15 related long-tail keywords and LSI (Latent Semantic Indexing) terms relevant to TOPIC. Plan to naturally incorporate these throughout the article.~
+Craft an engaging, SEO-optimized title (H1) that includes KEYWORD and appeals to AUDIENCE. Ensure it's under 60 characters for optimal display in search results.~
+Write a compelling introduction (150-200 words) that hooks the reader, introduces TOPIC, and outlines what the article will cover. Naturally include KEYWORD.~
+For each main section (H2) in the outline:
+1. Write 300-500 words of in-depth, informative content.
+2. Include relevant examples, data, or case studies found through web search.
+3. Naturally incorporate 1-2 related long-tail keywords or LSI terms.
+4. Ensure a conversational tone that speaks directly to AUDIENCE.
+5. Add a unique insight or perspective not commonly found in competing articles.~
+Create 2-3 custom images, diagrams, or infographic concepts that visually explain key points in the article. Describe each in detail, including alt text optimized for KEYWORD.~
+Write a "Quick Takeaways" or "Key Points" section that summarizes the main insights of the article in 5-7 bullet points.~
+Develop a conclusion (200-250 words) that summarizes the key points, reinforces the main message, and includes a call-to-action relevant to AUDIENCE.~
+Create 5 unique, relevant FAQs related to TOPIC. Ensure answers are concise yet informative, and naturally include long-tail keywords.~
+Write a custom message asking for reader feedback and encouraging social shares. Include a question to boost engagement.~
+Use web search to identify 3-5 authoritative external sources relevant to TOPIC. Create in-text citations and a "References" section at the end of the article.~
+Review the entire article to ensure optimal keyword density (aim for 1-2% for KEYWORD), proper use of headings, and inclusion of long-tail keywords. Check that the content maintains high perplexity and burstiness while staying on topic.~
+Format the article using Markdown, ensuring all headings (H1, H2, H3, H4) and important points are properly styled. Bold key phrases and use italics for emphasis where appropriate.~
+Compile the full article, including the title, introduction, main body with all sections, images, conclusion, FAQs, engagement message, and references. Ensure it meets or exceeds WORDCOUNT while maintaining high-quality, engaging content throughout.
+```
+
+
 ### Build a course for any subject
 
 ```
