@@ -44,6 +44,12 @@ If applicable, suggest tools or resources that can help with this step.~ Identif
 
 ```
 
+### Create a slide deck for any occasion
+```
+TOPIC=[Topic of presentation], AUDIENCE=[Target audience], DURATION=[Presentation duration in minutes] Create a comprehensive slide deck outline for a presentation on TOPIC, tailored for AUDIENCE, with a duration of DURATION minutes. Include a title slide and a table of contents.~Expand on the table of contents, providing a detailed outline for each section. Include key points, potential visuals, and any data or statistics to be featured.~Write the content for the title slide and introduction slides. Ensure the introduction captures attention and clearly states the presentation's purpose.~Develop the content for the main body slides, focusing on one section at a time. Include clear headings, concise bullet points, and notes for visual elements.~Create transition slides between main sections to maintain flow and coherence throughout the presentation.~Design a strong conclusion that summarizes key points and includes a call to action if appropriate.~Develop any additional slides such as Q&A, references, or contact information.~Review the entire slide deck for consistency, flow, and adherence to best practices in presentation design. Suggest any improvements or additional visual elements that could enhance the presentation.~Provide a final outline of the complete slide deck, including slide numbers and brief descriptions of each slide's content.
+```
+
+
 
 ### Create a comprehensive Newsletter on any topic
 
