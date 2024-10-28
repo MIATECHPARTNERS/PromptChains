@@ -33,6 +33,52 @@ Using your web search capabilities, I want you to search the web for the latest 
 ORIGINAL_CONTENT=[Full text of the content to be translated], SOURCE_LANGUAGE=[Language of the original content], CONTENT_TYPE=[Type of content, e.g., marketing, technical, casual], TARGET_LANGUAGES=[List of target languages for translation] Analyze the ORIGINAL_CONTENT in SOURCE_LANGUAGE. Identify key messages, tone, style, and any culturally specific references or idioms. Note any technical terms, brand names, or phrases that should remain untranslated. Create a brief summary of the content's main points and intended impact.~Spanish Translation: Translate ORIGINAL_CONTENT into Spanish, adapting any culturally specific references or idioms to resonate with a Spanish-speaking audience. Ensure the translation maintains the original tone and style appropriate for CONTENT_TYPE. Flag any terms or concepts that may need additional explanation for a Spanish-speaking audience. Provide a back-translation of any significantly adapted portions.~Mandarin Chinese Translation: Translate ORIGINAL_CONTENT into Mandarin Chinese, using Simplified Chinese characters. Adapt any Western concepts or idioms to culturally appropriate equivalents. Pay special attention to formal/informal language choices based on CONTENT_TYPE. Highlight any terms that have multiple possible translations and explain your choice. Provide a back-translation of any significantly adapted portions.~Hindi Translation: Translate ORIGINAL_CONTENT into Hindi, being mindful of formal/informal speech levels appropriate for CONTENT_TYPE. Adapt any culturally specific references to resonate with an Indian audience. For any English terms commonly used in Hindi, provide both the Hindi translation and the English term in parentheses. Provide a back-translation of any significantly adapted portions.~Arabic Translation: Translate ORIGINAL_CONTENT into Modern Standard Arabic. Be mindful of right-to-left script and any necessary adaptations for Arabic typography. Adjust any culturally specific references or idioms to be appropriate for a broad Arab audience. For any scientific or technical terms, provide both the Arabic translation and the English term in parentheses. Provide a back-translation of any significantly adapted portions.~French Translation: Translate ORIGINAL_CONTENT into French, adapting any culturally specific references or idioms as needed. Ensure the translation maintains the original tone and style appropriate for CONTENT_TYPE. Pay special attention to formal/informal language choices, especially for pronouns. Flag any terms or concepts that may have different connotations in French-speaking cultures. Provide a back-translation of any significantly adapted portions.~German Translation: Translate ORIGINAL_CONTENT into German, being mindful of formal/informal speech levels appropriate for CONTENT_TYPE. Adapt any culturally specific references as needed. Pay special attention to compound words and technical terms, providing explanations where necessary. Highlight any areas where sentence structure was significantly changed to sound natural in German. Provide a back-translation of any significantly adapted portions.~Portuguese Translation: Translate ORIGINAL_CONTENT into Portuguese, specifying whether it's European or Brazilian Portuguese based on the primary target audience. Adapt any culturally specific references or idioms as needed. Ensure the translation maintains the original tone and style appropriate for CONTENT_TYPE. Flag any terms or concepts that may have different connotations in Portuguese-speaking cultures. Provide a back-translation of any significantly adapted portions.~Review all translations for consistency in conveying the original message and maintaining appropriate tone for CONTENT_TYPE. Identify any common challenges or significant adaptations across languages. Provide a summary of key considerations for each language translation, including any terms or concepts that required special attention across multiple languages. Suggest any visual or formatting adaptations that might be necessary for different language versions, especially for languages with different scripts or reading directions.
 ```
 
+
+### - Conduct a psychoanalysis with professional recommendations
+
+```
+NAME=[client name]
+CONCERNS=[primary concerns/symptoms]
+GOALS=[desired outcomes]
+CONSTRAINTS=[time/resource limitations]
+Acting as an experienced psychological analyst, conduct a thorough initial assessment for NAME who presents with CONCERNS and wishes to achieve GOALS, while considering CONSTRAINTS. Focus on understanding their current situation, behavioral patterns, and emotional state.~
+Based on the initial assessment, identify and analyze the following key areas:
+1. Current coping mechanisms
+2. Support systems
+3. Stress triggers
+4. Behavioral patterns
+5. Emotional regulation
+Provide specific examples and observations for each area.~
+Generate a detailed analysis of underlying factors that may be contributing to the current situation. Consider:
+1. Historical patterns
+2. Environmental influences
+3. Relationship dynamics
+4. Personal beliefs and values
+5. Life transitions~
+Based on the analysis, identify three primary areas for therapeutic focus and personal development. For each area, provide:
+1. Current impact
+2. Development opportunities
+3. Potential challenges~
+Create a comprehensive program recommendation that includes:
+1. Specific therapeutic approaches
+2. Practical exercises and tools
+3. Progress monitoring methods
+4. Timeline for implementation
+5. Expected outcomes
+Format as a structured action plan with clear steps and milestones.~
+Develop three alternative program options varying in:
+1. Intensity (light/moderate/intensive)
+2. Time commitment
+3. Resource requirements
+4. Approach (cognitive/behavioral/holistic)
+Present each option with pros and cons.~
+Conclude with a summary that includes:
+1. Key insights from the analysis
+2. Recommended primary program choice
+3. Success metrics
+4. Follow-up recommendations
+```
+
 ## Turn a blog post into various social media content
 
 ```
