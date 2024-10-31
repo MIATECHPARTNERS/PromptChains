@@ -26,6 +26,12 @@ Using your web search capabilities, I want you to search the web for the latest 
 ```
 
 
+### Craft highly effective contractor proposals (Upwork, Fiverr, etc). Prompt Included.
+
+```
+JOB_DESCRIPTION=[paste job posting], BID_AMOUNT=[your rate], RELEVANT_EXPERIENCE=[your matching skills/projects], TIMELINE=[delivery timeframe]~Analyze JOB_DESCRIPTION and identify: 1) Key requirements 2) Client pain points 3) Project scope 4) Any red flags or areas needing clarification~Generate a compelling first paragraph that: 1) References a specific detail from their posting 2) Demonstrates immediate understanding of their needs 3) Establishes relevant expertise from RELEVANT_EXPERIENCE~Create the middle section addressing: 1) Your specific approach to their project 2) Similar work examples 3) Why you're uniquely qualified 4) Clear TIMELINE and deliverables 5) Any clarifying questions presented as professional observations~Draft the closing paragraph including: 1) BID_AMOUNT with clear deliverable breakdown 2) Call to action for next steps 3) Availability for discussion~Format the full proposal with proper spacing and structure while keeping it under 2000 characters. Add 2-3 relevant portfolio items or work samples as numbered references~Proofread and identify any phrases that could be more personalized or impactful
+```
+
 
 ### Create translated documents across multiple languages
 
