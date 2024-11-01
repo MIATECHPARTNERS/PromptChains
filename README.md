@@ -33,6 +33,62 @@ JOB_DESCRIPTION=[paste job posting], BID_AMOUNT=[your rate], RELEVANT_EXPERIENCE
 ```
 
 
+### Conduct extensive market research with SearchGPT
+
+```
+[INDUSTRY]=Target industry or market sector
+[COMPANY_NAME]=Primary company or product being analyzed
+[RESEARCH_DEPTH]=Level of detail (surface-level, moderate, in-depth)
+[GEOGRAPHICAL_FOCUS]=Target market region or regions
+[TIME_FRAME]=Analysis period (e.g., last 3 years, current year)
+
+Step 1: Market Landscape Overview~
+1. Map out key players in [INDUSTRY]
+2. Identify top 10 competitors to [COMPANY_NAME]
+3. Calculate market share distribution
+4. Compile recent industry trends and disruptions
+Output a comprehensive market landscape summary
+
+Step 2: Competitor Deep Dive~
+1. Analyze each competitor's:
+   - Business model
+   - Revenue streams
+   - Unique value propositions
+   - Recent strategic moves
+2. Create SWOT analysis for top 5 competitors
+3. Identify potential competitive gaps
+Output detailed competitor intelligence report
+
+Step 3: Target Audience Segmentation~
+1. Define demographic profiles
+2. Map psychographic characteristics
+3. Analyze purchasing behaviors
+4. Identify unmet customer needs in [GEOGRAPHICAL_FOCUS]
+Output multi-dimensional audience persona document
+
+Step 4: Financial and Performance Analysis~
+1. Gather revenue data for [INDUSTRY]
+2. Calculate growth rates
+3. Analyze investment trends
+4. Project potential market opportunities
+Output financial performance and trend analysis
+
+Step 5: Strategic Recommendations~
+1. Synthesize insights from previous steps
+2. Develop strategic recommendations for [COMPANY_NAME]
+3. Outline potential market entry or expansion strategies
+4. Prioritize recommendations by potential impact
+Output strategic roadmap with actionable insights
+
+Step 6: Research Validation and Refinement~
+1. Cross-reference data sources
+2. Check for potential biases
+3. Verify statistical significance
+4. Summarize key findings and confidence levels
+Output final research report with methodology notes
+```
+
+
 ### Create translated documents across multiple languages
 
 ```
