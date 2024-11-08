@@ -25,6 +25,26 @@ This prompt chain helps research publicly traded companies benefiting from the r
 Using your web search capabilities, I want you to search the web for the latest information on publicly traded companies that are currently benefiting from the rise of AI. Include URL columns where I can learn more about each company, their competitive advantages, and any analyst ratings. Return this back in a table inline. We will research in batches of 10, when I say "More" you find 10 more. Keep the information brief and all within the inline table. Example: | Company Name | Stock Symbol | Competitive Advantages | Analyst Ratings | URL | |--------------|--------------|------------------------------------------|------------------|----------------------------------------| | Company A | ABC | Leading AI technology, strong R&D | Strong Buy | Link | | Company B | XYZ | Dominant in AI software, extensive patents| Moderate Buy | Link | Please provide the latest information available. ~More ~ More ~ More
 ```
 
+Generate a series of positive affirmations tailored to you. Prompt Included. 
+
+```
+{USER_NAME}=User’s name
+{USER_TRAITS}=List of specific positive traits or qualities about the user
+{USER_GOALS}=User’s primary goals or aspirations
+
+Based on the user information, summarize key traits and goals.
+Given the following details about [USER_NAME]—positive traits: [USER_TRAITS]; primary goals: [USER_GOALS]—please create a brief summary that will set the context for generating affirmations
+
+ ~ Build affirmations focusing on boosting self-worth, confidence, and motivation based on the user’s qualities and goals.
+"Using this context: '[SUMMARY_FROM_STEP_1]', generate [AFFIRMATION_COUNT] affirmations that encourage self-belief and positive action. Ensure each affirmation reflects one of the user’s traits or goals and is uplifting and direct."
+
+~ Improve each affirmation by adding emotionally resonant language to make them impactful and easy to internalize.
+"For each affirmation in '[AFFIRMATIONS_FROM_STEP_2]', enhance it with empowering words and make it concise. Ensure it’s in the present tense, so the user feels encouraged in the moment."
+
+~ Review and refine the affirmations to ensure they are motivating and aligned with [USER_NAME]'s personal journey.
+"Review the list of affirmations and make any final adjustments to ensure they sound natural, positive, and directly relevant to [USER_NAME]'s personal growth and goals."
+```
+
 
 ### Craft highly effective contractor proposals (Upwork, Fiverr, etc). Prompt Included.
 
