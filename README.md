@@ -25,6 +25,13 @@ This prompt chain helps research publicly traded companies benefiting from the r
 Using your web search capabilities, I want you to search the web for the latest information on publicly traded companies that are currently benefiting from the rise of AI. Include URL columns where I can learn more about each company, their competitive advantages, and any analyst ratings. Return this back in a table inline. We will research in batches of 10, when I say "More" you find 10 more. Keep the information brief and all within the inline table. Example: | Company Name | Stock Symbol | Competitive Advantages | Analyst Ratings | URL | |--------------|--------------|------------------------------------------|------------------|----------------------------------------| | Company A | ABC | Leading AI technology, strong R&D | Strong Buy | Link | | Company B | XYZ | Dominant in AI software, extensive patents| Moderate Buy | Link | Please provide the latest information available. ~More ~ More ~ More
 ```
 
+
+How to make a million dollars with your skill set
+
+```
+[Skill Set] = A brief description of your primary skills and expertise [Time Frame] = The desired time frame to achieve one million dollars [Available Resources] = Resources currently available to you [Interests] = Personal interests that could be leveraged ~ Step 1: Based on the following skills: {Skill Set}, identify the top three skills that have the highest market demand and can be monetized effectively. ~ Step 2: For each of the top three skills identified, list potential monetization strategies that could help generate significant income within {Time Frame}. Use numbered lists for clarity. ~ Step 3: Given your available resources: {Available Resources}, determine how they can be utilized to support the monetization strategies listed. Provide specific examples. ~ Step 4: Consider your personal interests: {Interests}. Suggest ways to integrate these interests with the monetization strategies to enhance motivation and sustainability. ~ Step 5: Create a step-by-step action plan outlining the key tasks needed to implement the selected monetization strategies. Organize the plan in a timeline to achieve the goal within {Time Frame}. ~ Step 6: Identify potential challenges and obstacles that might arise during the implementation of the action plan. Provide suggestions on how to overcome them. ~ Step 7: Review the action plan and refine it to ensure it's realistic, achievable, and aligned with your skills and resources. Make adjustments where necessary.
+```
+
 Generate a series of positive affirmations tailored to you. Prompt Included. 
 
 ```
